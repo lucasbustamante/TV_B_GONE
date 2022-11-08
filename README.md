@@ -8,7 +8,6 @@ Foto do esquema de ligações
 
 Fotos do projeto montado com ARDUINO NANO
 
-<img src="/foto1.jpg" width="750" />
-<img src="/foto2.jpg" width="750" />
-<img src="/foto3.jpg" width="750" />
-<img src="/foto4.jpg" width="750" />
+<img src="/foto1.jpg" width="700" />
+<img src="/foto2.jpg" width="700" />
+<img src="/foto3.jpg" width="700" />
