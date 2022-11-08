@@ -2,4 +2,6 @@
 
 Projeto feito com ARDUINO para ligar e desligar todas as marcas de TVs
 
-<img src="/esquemático.png" width="250" />
+Foto do esquema de ligações
+
+<img src="/esquemático.png" width="600" />
